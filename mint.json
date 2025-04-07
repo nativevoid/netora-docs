@@ -1,0 +1,30 @@
+{
+    "$schema": "https://mintlify.com/schema.json",
+    "name": "Netora",
+    "favicon": "/favicon.svg",
+    "colors": {
+      "primary": "#4285f4",
+      "light": "#4285f4",
+      "dark": "#2133a3"
+    },
+    "topbarCtaButton": {
+      "type": "github",
+      "url": "https://github.com/nativevoid/netora"
+    },
+    "navigation": [
+      {
+        "group": "Get started",
+        "pages": [
+          "installation",
+          "usage"
+        ]
+      }
+    ],
+    "metadata": {
+      "og:title": "Netora",
+      "og:description": "Quickly uncover details and geolocation for any IP address",
+      "og:type": "website",
+      "og:locale": "en",
+      "og:site_name": "Netora"
+    }
+  }
